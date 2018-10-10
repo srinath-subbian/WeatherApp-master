@@ -39,15 +39,15 @@
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
-            <meta-data
-                android:name="io.fabric.ApiKey"
-                android:value="b21a0242ac188d5bf3669a09628781d547245dbe" />
+
             <meta-data
                 android:name="android.appwidget.provider"
                 android:resource="@xml/weather_stream_widget" />
         </receiver>
 
         <service android:name="sri.oasis.weather.services.WeatherWidgetService" />
-
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="b21a0242ac188d5bf3669a09628781d547245dbe" />
     </application>
 </manifest>

@@ -16,8 +16,8 @@ android {
         applicationId "sri.oasis.weather"
         minSdkVersion 21
         targetSdkVersion 26
-        versionCode 5
-        versionName "1.4"
+        versionCode 1
+        versionName "1.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
@@ -43,6 +43,18 @@ android {
             renderscriptDebuggable false
             pseudoLocalesEnabled false
             zipAlignEnabled true
+        }
+    }
+    flavorDimensions "default"
+    productFlavors {
+        free {
+            applicationId "sri.oasis.weather"
+            dimension "default"
+            minSdkVersion 21
+            targetSdkVersion 26
+            versionCode 1
+            versionName '1.0'
+
         }
     }
 }
