@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "582260245915",
+    "firebase_url": "https://weatherapp-f2a8f.firebaseio.com",
+    "project_id": "weatherapp-f2a8f",
+    "storage_bucket": "weatherapp-f2a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582260245915:android:45c4349fab6fb475",
+        "android_client_info": {
+          "package_name": "sri.oasis.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582260245915-ej2j4ersjbq14ddbubc294hgh9g7f723.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sri.oasis.weather",
+            "certificate_hash": "f9cc199804d7bb8cffc099a575edc362009ac682"
+          }
+        },
+        {
+          "client_id": "582260245915-iu5q182neqb2540dhk2is1hv28gbgu14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcylUgeE06iHRJ6sMMzqrVdCWCdHtiYrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582260245915-iu5q182neqb2540dhk2is1hv28gbgu14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
