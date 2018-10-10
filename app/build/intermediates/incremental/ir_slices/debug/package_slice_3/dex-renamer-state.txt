@@ -1,4 +1,4 @@
-#Wed Oct 10 16:58:20 IST 2018
-base.0=/Users/IMAT4/Downloads/WeatherStream-master/app/build/intermediates/transforms/dexMerger/debug/3
+#Wed Oct 10 17:21:53 IST 2018
+base.0=/Users/IMAT4/Downloads/WeatherApp-master/app/build/intermediates/transforms/dexMerger/debug/3
 path.0=classes.dex
 renamed.0=classes.dex

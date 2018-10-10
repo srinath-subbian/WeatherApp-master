@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/IMAT4/Downloads/WeatherStream-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
+            "outputFile": "/Users/IMAT4/Downloads/WeatherApp-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
             "map": [
                 {
                     "source": "/Users/IMAT4/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/58d3ded162130cf3828e78ee3c596d3b/res/values-ko/location_strings.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/IMAT4/Downloads/WeatherStream-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/IMAT4/Downloads/WeatherApp-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/IMAT4/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/68a3dc8d29534ea85216c3986c733f94/res/values-land/values-land.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/IMAT4/Downloads/WeatherStream-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml",
+            "outputFile": "/Users/IMAT4/Downloads/WeatherApp-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml",
             "map": [
                 {
                     "source": "/Users/IMAT4/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/5ea2c95b814e46115838a2f7778a7079/res/values-ml-rIN/base_strings.xml",

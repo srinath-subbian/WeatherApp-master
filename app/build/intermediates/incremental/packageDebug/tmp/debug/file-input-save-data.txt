@@ -1,19 +1,19 @@
 #Internal package file, do not edit.
-#Wed Oct 10 16:58:21 IST 2018
-1.base=/Users/IMAT4/Downloads/WeatherStream-master/app/build/intermediates/assets/debug
+#Wed Oct 10 17:21:54 IST 2018
+1.base=/Users/IMAT4/Downloads/WeatherApp-master/app/build/intermediates/transforms/dexMerger/debug/12
 2.path=classes.dex
 0.baseType=DIRECTORY
 3.baseType=DIRECTORY
-2.base=/Users/IMAT4/Downloads/WeatherStream-master/app/build/intermediates/transforms/dexMerger/debug/12
-3.set=DEX
+2.base=/Users/IMAT4/Downloads/WeatherApp-master/app/build/intermediates/transforms/dexMerger/debug/11
+3.set=ASSET
 2.set=DEX
 1.baseType=DIRECTORY
-3.path=classes.dex
+3.path=crashlytics-build.properties
 count=4
-1.set=ASSET
+1.set=DEX
 0.path=classes.dex
-3.base=/Users/IMAT4/Downloads/WeatherStream-master/app/build/intermediates/transforms/dexMerger/debug/13
+3.base=/Users/IMAT4/Downloads/WeatherApp-master/app/build/intermediates/assets/debug
 0.set=DEX
-0.base=/Users/IMAT4/Downloads/WeatherStream-master/app/build/intermediates/transforms/dexMerger/debug/11
+0.base=/Users/IMAT4/Downloads/WeatherApp-master/app/build/intermediates/transforms/dexMerger/debug/13
 2.baseType=DIRECTORY
-1.path=crashlytics-build.properties
+1.path=classes.dex
